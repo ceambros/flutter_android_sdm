@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "353074156107",
+    "firebase_url": "https://fir-money-8bf74.firebaseio.com",
+    "project_id": "fir-money-8bf74",
+    "storage_bucket": "fir-money-8bf74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353074156107:android:3437206be6499504",
+        "android_client_info": {
+          "package_name": "br.com.flutter.firestone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRa_hVbA-XuY6y08EP6vQd_8Ksjh3_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353074156107:android:ea6eff6a3b7907a0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_validation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRa_hVbA-XuY6y08EP6vQd_8Ksjh3_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353074156107:android:8b06393af6c7df4f",
+        "android_client_info": {
+          "package_name": "itm.sdm.com.br.flutter_arduino_sdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRa_hVbA-XuY6y08EP6vQd_8Ksjh3_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353074156107-qrd6uk8utto1opvom9c3onb72u8412lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
